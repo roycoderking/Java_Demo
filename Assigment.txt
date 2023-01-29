@@ -6,7 +6,6 @@ Answer: Git is an open-source version control system(VCS) it is used as a conten
 
 Answer: A version control system is the method by which we sent the file and received the file over time 
 
-
 3) What is GitHub?
 
 Answer: GitHub is the main server where we use to store main projects.
@@ -27,4 +26,4 @@ Answer: The git repository is a git server where we can store our data as per us
 
 Answer:git init
 
-3) What is GitHub?
+
