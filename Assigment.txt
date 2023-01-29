@@ -1,0 +1,29 @@
+1) What is Git?
+
+Answer: Git is an open-source version control system(VCS) it is used as a content tracker and is mostly used to store programming code.
+
+2) What do you understand by the term ‘Version Control System'?
+
+Answer: A version control system is the method by which we sent the file and received the file over time 
+
+3) What is GitHub?
+
+Answer: GitHub is the main server where we use to store main projects.
+
+4) Mention Some popular Git hosting Services?
+
+Answer: GitHub, GitLab, Bitbucket, SourceForge.
+
+6)  What benefits come with using GIT?
+
+Answer: By using GIT our code never gets missed. we can share our code with our teammates.
+
+7) What is a Git repository?
+
+Answer: The git repository is a git server where we can store our data as per user manner.
+
+8)How can you initialize a repository in Git?
+
+Answer:git init
+
+
